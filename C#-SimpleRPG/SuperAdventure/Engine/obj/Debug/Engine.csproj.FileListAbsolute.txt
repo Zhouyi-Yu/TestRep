@@ -1,0 +1,12 @@
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\Engine\obj\Debug\Engine.pdb

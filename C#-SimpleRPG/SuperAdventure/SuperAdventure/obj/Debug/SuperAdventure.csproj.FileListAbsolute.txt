@@ -1,0 +1,26 @@
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C# -Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\ROG\Desktop\GoogleDownloads\Application\coding project\C#-Simple RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
